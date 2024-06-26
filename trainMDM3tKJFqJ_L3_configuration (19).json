@@ -39,6 +39,12 @@
       "label": "Finance",
       "icon": "images/source/reltio.png",
       "abbreviation": "Finance"
+    },
+{
+      "uri": "configuration/sources/ReltioRDM",
+      "label": "Reltio RDM",
+      "icon": "images/source/reltio.png",
+      "abbreviation": "ReltioRDM"
     }
   ],
   "label": "B2B CT",
